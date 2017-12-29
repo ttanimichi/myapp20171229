@@ -35,6 +35,7 @@ gem 'jbuilder', '~> 2.5'
 
 group :development, :test do
   gem 'better_errors'
+  gem 'binding_of_caller'
 
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '~> 2.13'
